@@ -1,0 +1,2 @@
+mysql:
+  dns: root:aE6cW8hC3qI2sP4g@tcp(10.21.91.245:13306)/message?charset=utf8&parseTime=True&loc=Local
